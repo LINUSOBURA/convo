@@ -1,0 +1,1066 @@
+[
+  {
+    "context": "market",
+    "level": "beginner",
+    "question": "Hello! Welcome to my store. How can I help you today?",
+    "answers": [
+      "Hello. I want to buy… umm… fruits.",
+      "Where is the nearest bus stop?",
+      "Can you fix my car?",
+      "I dont know."
+    ],
+    "correctAnswer": "Hello. I want to buy… umm… fruits."
+  },
+  {
+    "context": "market",
+    "level": "beginner",
+    "question": "Sure! We have apples, bananas, oranges, and grapes. What would you like?",
+    "answers": [
+      "Umm… apples. How much are they?",
+      "Do you sell shoes?",
+      "I don't like fruits.",
+      "I dont know."
+    ],
+    "correctAnswer": "Umm… apples. How much are they?"
+  },
+  {
+    "context": "market",
+    "level": "beginner",
+    "question": "Apples are $2 per kilogram.",
+    "answers": [
+      "Oh, okay. I want one kilogram, please.",
+      "I will take ten kilograms.",
+      "Can I have free apples?",
+      "I dont know."
+    ],
+    "correctAnswer": "Oh, okay. I want one kilogram, please."
+  },
+  {
+    "context": "market",
+    "level": "beginner",
+    "question": "Alright. Anything else?",
+    "answers": [
+      "Yes… bananas.",
+      "I need a new phone.",
+      "Can I buy a car?",
+      "I dont know."
+    ],
+    "correctAnswer": "Yes… bananas."
+  },
+  {
+    "context": "market",
+    "level": "beginner",
+    "question": "Bananas are $1.50 per kilogram. How many kilograms do you want?",
+    "answers": [
+      "One kilogram, please.",
+      "Five bananas, please.",
+      "I need one kilogram, please.",
+      "I dont know."
+    ],
+    "correctAnswer": "One kilogram, please."
+  },
+  {
+    "context": "market",
+    "level": "beginner",
+    "question": "Okay. One kilogram of apples and one kilogram of bananas. Do you need anything else?",
+    "answers": [
+      "Hmm… yes, water.",
+      "No, thank you.",
+      "Can I have a toy?",
+      "I dont know."
+    ],
+    "correctAnswer": "Hmm… yes, water."
+  },
+  {
+    "context": "market",
+    "level": "beginner",
+    "question": "We have small, medium, and large bottles of water. Which one do you want?",
+    "answers": [
+      "Umm… medium, please. How much is it?",
+      "Large is better!",
+      "Small, please, and a cookie.",
+      "I dont know."
+    ],
+    "correctAnswer": "Umm… medium, please. How much is it?"
+  },
+  {
+    "context": "market",
+    "level": "beginner",
+    "question": "A medium bottle is $1.",
+    "answers": [
+      "Okay, I take one.",
+      "I don't need water.",
+      "How about two bottles?",
+      "I dont know."
+    ],
+    "correctAnswer": "Okay, I take one."
+  },
+  {
+    "context": "market",
+    "level": "beginner",
+    "question": "Great! So, one kilogram of apples, one kilogram of bananas, and one medium bottle of water. The total is $4.50.",
+    "answers": [
+      "I have forgoten my name.",
+      "I have only $3.",
+      "Can I pay tomorrow?",
+      "Okay. Here is $5."
+    ],
+    "correctAnswer": "Okay. Here is $5."
+  },
+  {
+    "context": "market",
+    "level": "beginner",
+    "question": "Thank you! Here is your change, 50 cents.",
+    "answers": [
+      "Thank you. Bye!",
+      "I want more apples.",
+      "Keep the change!",
+      "I dont know."
+    ],
+    "correctAnswer": "Thank you. Bye!"
+  },
+  {
+    "context": "market",
+    "level": "beginner",
+    "question": "Bye! Have a nice day!",
+    "answers": ["You too!", "No, thanks.", "Maybe tomorrow.", "I dont know."],
+    "correctAnswer": "You too!"
+  },
+  {
+    "context": "market",
+    "level": "intermediate",
+    "question": "Good morning! Welcome to my store. What can I do for you today?",
+    "answers": [
+      "Good morning! I’m looking to buy some fruits.",
+      "Do you sell furniture here?",
+      "Can you tell me the time?",
+      "I dont know."
+    ],
+    "correctAnswer": "Good morning! I’m looking to buy some fruits."
+  },
+  {
+    "context": "market",
+    "level": "intermediate",
+    "question": "Of course! We have a variety of fruits: apples, bananas, oranges, and grapes. What are you looking for specifically?",
+    "answers": [
+      "I’d like to get some apples, please. How much are they?",
+      "I need a book, not fruits.",
+      "Do you have any flowers for sale?",
+      "I dont know."
+    ],
+    "correctAnswer": "I’d like to get some apples, please. How much are they?"
+  },
+  {
+    "context": "market",
+    "level": "intermediate",
+    "question": "Apples are $2.50 per kilogram. How many kilograms would you like?",
+    "answers": [
+      "I’ll take two kilograms, please.",
+      "I only want one apple.",
+      "Can I have some for free?",
+      "I dont know."
+    ],
+    "correctAnswer": "I’ll take two kilograms, please."
+  },
+  {
+    "context": "market",
+    "level": "intermediate",
+    "question": "Alright. Anything else you’d like to add to your order?",
+    "answers": [
+      "Yes, I’d like some bananas as well.",
+      "I’m done, thank you.",
+      "Do you have car parts here?",
+      "I dont know."
+    ],
+    "correctAnswer": "Yes, I’d like some bananas as well."
+  },
+  {
+    "context": "market",
+    "level": "intermediate",
+    "question": "Bananas are $1.80 per kilogram. How much should I pack for you?",
+    "answers": [
+      "One kilogram will be enough, thanks.",
+      "I don’t like bananas.",
+      "Just a handful, please.",
+      "I dont know."
+    ],
+    "correctAnswer": "One kilogram will be enough, thanks."
+  },
+  {
+    "context": "market",
+    "level": "intermediate",
+    "question": "So far, you have two kilograms of apples and one kilogram of bananas. Would you like to add anything else?",
+    "answers": [
+      "Yes, I’d like a bottle of water, please.",
+      "No, that’s all for now.",
+      "Do you sell clothes too?",
+      "I dont know."
+    ],
+    "correctAnswer": "Yes, I’d like a bottle of water, please."
+  },
+  {
+    "context": "market",
+    "level": "intermediate",
+    "question": "We have small, medium, and large bottles of water. Which size do you prefer?",
+    "answers": [
+      "A medium bottle will do, thank you.",
+      "I’ll take a coffee instead.",
+      "Give me the smallest one.",
+      "I dont know."
+    ],
+    "correctAnswer": "A medium bottle will do, thank you."
+  },
+  {
+    "context": "market",
+    "level": "intermediate",
+    "question": "Alright, your total comes to $7.30. How would you like to pay?",
+    "answers": [
+      "Here’s $10. Keep the change.",
+      "Can I pay with coins?",
+      "I don’t have enough money.",
+      "I dont know."
+    ],
+    "correctAnswer": "Here’s $10. Keep the change."
+  },
+  {
+    "context": "market",
+    "level": "intermediate",
+    "question": "Thank you very much! Here’s your receipt. Have a great day!",
+    "answers": [
+      "Thank you! You too.",
+      "I forgot to add something.",
+      "Do you have a complaint desk?",
+      "I dont know."
+    ],
+    "correctAnswer": "Thank you! You too."
+  },
+  {
+    "context": "market",
+    "level": "advanced",
+    "question": "Good morning! Welcome to our store. Is there anything in particular you're looking for today?",
+    "answers": [
+      "Good morning! I was hoping to find some fresh fruits.",
+      "Where's the bus station?",
+      "Can you lend me some money?",
+      "I dont know."
+    ],
+    "correctAnswer": "Good morning! I was hoping to find some fresh fruits."
+  },
+  {
+    "context": "market",
+    "level": "advanced",
+    "question": "Absolutely! We just restocked our fruits section. We have apples, bananas, oranges, and even some exotic options like dragon fruit and passion fruit. What interests you?",
+    "answers": [
+      "I’d like to get a couple of kilograms of apples, please. How much are they?",
+      "Do you sell gadgets here?",
+      "What time does the store close?",
+      "I dont know."
+    ],
+    "correctAnswer": "I’d like to get a couple of kilograms of apples, please. How much are they?"
+  },
+  {
+    "context": "market",
+    "level": "advanced",
+    "question": "Apples are $3 per kilogram. They’re freshly picked and very crisp.",
+    "answers": [
+      "Great! I’ll take two kilograms then.",
+      "I’ll come back later.",
+      "Do you have any free samples?",
+      "I dont know."
+    ],
+    "correctAnswer": "Great! I’ll take two kilograms then."
+  },
+  {
+    "context": "market",
+    "level": "advanced",
+    "question": "Sure! I’ll weigh those for you. Would you like anything else?",
+    "answers": [
+      "Yes, I’d like to add some bananas and perhaps a small watermelon, if you have one.",
+      "No, thank you. That’s all.",
+      "Do you sell kitchenware here?",
+      "I dont know."
+    ],
+    "correctAnswer": "Yes, I’d like to add some bananas and perhaps a small watermelon, if you have one."
+  },
+  {
+    "context": "market",
+    "level": "advanced",
+    "question": "Bananas are $2 per kilogram, and watermelons vary by size. We have small ones for $5 each. Should I add those to your order?",
+    "answers": [
+      "Yes, one small watermelon and one kilogram of bananas would be perfect, thank you.",
+      "No, I changed my mind.",
+      "Can I have something for free?",
+      "I dont know."
+    ],
+    "correctAnswer": "Yes, one small watermelon and one kilogram of bananas would be perfect, thank you."
+  },
+  {
+    "context": "market",
+    "level": "advanced",
+    "question": "Alright, I’ve added those to your order. Is there anything else you’d like to include?",
+    "answers": [
+      "Yes, I’ll also take a bottle of sparkling water, please.",
+      "No, that should do it for now.",
+      "I’m not sure what I want.",
+      "I dont know."
+    ],
+    "correctAnswer": "Yes, I’ll also take a bottle of sparkling water, please."
+  },
+  {
+    "context": "market",
+    "level": "advanced",
+    "question": "We have sparkling water in various sizes. Would you prefer a 500ml, 1-liter, or 1.5-liter bottle?",
+    "answers": [
+      "I’ll go with the 1-liter bottle, thank you.",
+      "I don’t need water.",
+      "Do you have any free samples?",
+      "I dont know."
+    ],
+    "correctAnswer": "I’ll go with the 1-liter bottle, thank you."
+  },
+  {
+    "context": "market",
+    "level": "advanced",
+    "question": "Perfect! That brings your total to $16. How would you like to pay?",
+    "answers": [
+      "I’ll pay with my credit card, please.",
+      "Can I pay tomorrow?",
+      "Do you accept checks?",
+      "I dont know."
+    ],
+    "correctAnswer": "I’ll pay with my credit card, please."
+  },
+  {
+    "context": "market",
+    "level": "advanced",
+    "question": "Thank you! Your payment has been processed. Here’s your receipt. Have a wonderful day!",
+    "answers": [
+      "Thank you very much! You too.",
+      "Do you have a complaint form?",
+      "I’ll be back later.",
+      "I dont know."
+    ],
+    "correctAnswer": "Thank you very much! You too."
+  },
+  {
+    "context": "hospital",
+    "level": "beginner",
+    "question": "Hello! How can I help you?",
+    "answers": [
+      "I feel sick. I need to see a doctor.",
+      "Where is the library?",
+      "Can you give me some money?",
+      "I dont know."
+    ],
+    "correctAnswer": "I feel sick. I need to see a doctor."
+  },
+  {
+    "context": "hospital",
+    "level": "beginner",
+    "question": "Alright. Do you have an appointment?",
+    "answers": [
+      "No, I don’t. Can I make one now?",
+      "I’m here to buy food.",
+      "No, I’m looking for a taxi.",
+      "I dont know."
+    ],
+    "correctAnswer": "No, I don’t. Can I make one now?"
+  },
+  {
+    "context": "hospital",
+    "level": "beginner",
+    "question": "Yes, you can. Please fill out this form. Can you tell me your name and age?",
+    "answers": [
+      "My name is John, and I’m 25 years old.",
+      "I don’t like forms.",
+      "I’m here for shopping.",
+      "I dont know."
+    ],
+    "correctAnswer": "My name is John, and I’m 25 years old."
+  },
+  {
+    "context": "hospital",
+    "level": "beginner",
+    "question": "Thank you, John. What is the problem? Why do you feel sick?",
+    "answers": [
+      "I have a fever and a headache.",
+      "I came to fix my car.",
+      "Can I see a movie here?",
+      "I dont know."
+    ],
+    "correctAnswer": "I have a fever and a headache."
+  },
+  {
+    "context": "hospital",
+    "level": "beginner",
+    "question": "I see. Have you taken any medicine for your fever?",
+    "answers": [
+      "No, I haven’t taken any medicine.",
+      "I don’t have a car.",
+      "I want to go home.",
+      "I dont know."
+    ],
+    "correctAnswer": "No, I haven’t taken any medicine."
+  },
+  {
+    "context": "hospital",
+    "level": "beginner",
+    "question": "Okay. The doctor will see you soon. Please wait here.",
+    "answers": [
+      "Thank you. I’ll wait here.",
+      "Can I buy clothes here?",
+      "No, I don’t want to wait.",
+      "I dont know."
+    ],
+    "correctAnswer": "Thank you. I’ll wait here."
+  },
+  {
+    "context": "hospital",
+    "level": "beginner",
+    "question": "The doctor is ready to see you now. Please follow me.",
+    "answers": [
+      "Alright. Thank you.",
+      "Where can I find books?",
+      "Can I leave now?",
+      "I dont know."
+    ],
+    "correctAnswer": "Alright. Thank you."
+  },
+  {
+    "context": "hospital",
+    "level": "beginner",
+    "question": "Hello, I’m Dr. Smith. Can you describe your symptoms?",
+    "answers": [
+      "I have a fever, and my head hurts.",
+      "I’m looking for the train station.",
+      "I don’t have symptoms.",
+      "I dont know."
+    ],
+    "correctAnswer": "I have a fever, and my head hurts."
+  },
+  {
+    "context": "hospital",
+    "level": "beginner",
+    "question": "I understand. I’ll check your temperature and give you some medicine.",
+    "answers": [
+      "Thank you, doctor.",
+      "Can I go to the mall?",
+      "I don’t want medicine.",
+      "I dont know."
+    ],
+    "correctAnswer": "Thank you, doctor."
+  },
+  {
+    "context": "hospital",
+    "level": "beginner",
+    "question": "Your temperature is a bit high. Please take this medicine and rest at home.",
+    "answers": [
+      "Okay. I’ll do that. Thank you!",
+      "Can I play outside?",
+      "I don’t like resting.",
+      "I dont know."
+    ],
+    "correctAnswer": "Okay. I’ll do that. Thank you!"
+  },
+
+  {
+    "context": "hospital",
+    "level": "intermediate",
+    "question": "Good morning! How can I assist you today?",
+    "answers": [
+      "I’m not feeling well. I need to see a doctor.",
+      "Where is the nearest pharmacy?",
+      "Can you help me find a restaurant?",
+      "I dont know."
+    ],
+    "correctAnswer": "I’m not feeling well. I need to see a doctor."
+  },
+  {
+    "context": "hospital",
+    "level": "intermediate",
+    "question": "I see. Do you have an appointment, or are you coming as a walk-in patient?",
+    "answers": [
+      "I don’t have an appointment. I’m a walk-in patient.",
+      "I’m looking for a bookstore.",
+      "I have an appointment, but I’m not sure when.",
+      "I dont know."
+    ],
+    "correctAnswer": "I don’t have an appointment. I’m a walk-in patient."
+  },
+  {
+    "context": "hospital",
+    "level": "intermediate",
+    "question": "Alright, let me check if the doctor is available. Can you please provide your name and reason for visit?",
+    "answers": [
+      "My name is Sarah, and I have a terrible headache and a cough.",
+      "I’m looking for the nearest exit.",
+      "Can I speak to the manager?",
+      "I dont know."
+    ],
+    "correctAnswer": "My name is Sarah, and I have a terrible headache and a cough."
+  },
+  {
+    "context": "hospital",
+    "level": "intermediate",
+    "question": "Thank you, Sarah. Please take a seat. The doctor will call you shortly.",
+    "answers": [
+      "Thank you. I’ll wait here.",
+      "Can I go to the cafeteria?",
+      "I’m going to leave now.",
+      "I dont know."
+    ],
+    "correctAnswer": "Thank you. I’ll wait here."
+  },
+  {
+    "context": "hospital",
+    "level": "intermediate",
+    "question": "The doctor is ready to see you now. Please follow me.",
+    "answers": [
+      "Alright, thank you.",
+      "I’m not ready to see the doctor.",
+      "Can I leave now?",
+      "I dont know."
+    ],
+    "correctAnswer": "Alright, thank you."
+  },
+  {
+    "context": "hospital",
+    "level": "intermediate",
+    "question": "Hello, I’m Dr. Johnson. Can you tell me more about your symptoms and when they started?",
+    "answers": [
+      "I started feeling sick yesterday. I have a fever, and I’ve been coughing a lot.",
+      "I have no symptoms.",
+      "I just came to ask about the hospital’s services.",
+      "I dont know."
+    ],
+    "correctAnswer": "I started feeling sick yesterday. I have a fever, and I’ve been coughing a lot."
+  },
+  {
+    "context": "hospital",
+    "level": "intermediate",
+    "question": "I see. I’ll take your temperature and give you some medicine. Please rest and drink plenty of fluids.",
+    "answers": [
+      "Thank you, doctor. I will follow your advice.",
+      "Can I go home now?",
+      "What’s the cost for the consultation?",
+      "I dont know."
+    ],
+    "correctAnswer": "Thank you, doctor. I will follow your advice."
+  },
+  {
+    "context": "hospital",
+    "level": "intermediate",
+    "question": "Your temperature is high, and you may have a viral infection. I’m going to prescribe some medication. You should take it for the next few days.",
+    "answers": [
+      "Thank you, doctor. I will take the medicine as directed.",
+      "I don’t want the medicine.",
+      "How long do I need to stay in the hospital?",
+      "I dont know."
+    ],
+    "correctAnswer": "Thank you, doctor. I will take the medicine as directed."
+  },
+  {
+    "context": "hospital",
+    "level": "intermediate",
+    "question": "Please make sure to follow up with your doctor in a few days if your symptoms don’t improve.",
+    "answers": [
+      "I will, doctor. Thank you for your help.",
+      "Can I skip the follow-up appointment?",
+      "How much do I need to pay?",
+      "I dont know."
+    ],
+    "correctAnswer": "I will, doctor. Thank you for your help."
+  },
+  {
+    "context": "hospital",
+    "level": "intermediate",
+    "question": "You’re welcome. Take care and get well soon!",
+    "answers": [
+      "Thank you, doctor. Goodbye!",
+      "Can I stay here for a few more hours?",
+      "I’m not ready to leave.",
+      "I dont know."
+    ],
+    "correctAnswer": "Thank you, doctor. Goodbye!"
+  },
+  {
+    "context": "hospital",
+    "level": "advanced",
+    "question": "Good morning. How can I assist you today? What seems to be the issue?",
+    "answers": [
+      "I’ve been experiencing persistent headaches and dizziness for the past few days.",
+      "I’m looking for the nearest coffee shop.",
+      "Can you recommend a good restaurant?",
+      "I dont know."
+    ],
+    "correctAnswer": "I’ve been experiencing persistent headaches and dizziness for the past few days."
+  },
+  {
+    "context": "hospital",
+    "level": "advanced",
+    "question": "I see. Have you had any recent injuries or major health changes that might explain these symptoms?",
+    "answers": [
+      "No, there haven’t been any significant changes in my health, but I’ve been under a lot of stress lately.",
+      "I’m looking for a bookstore.",
+      "I haven’t had any injuries, but I feel tired all the time.",
+      "I dont know."
+    ],
+    "correctAnswer": "No, there haven’t been any significant changes in my health, but I’ve been under a lot of stress lately."
+  },
+  {
+    "context": "hospital",
+    "level": "advanced",
+    "question": "Stress can certainly contribute to headaches and dizziness. Let’s run some tests to rule out any underlying issues. Do you have any history of neurological conditions or cardiovascular problems?",
+    "answers": [
+      "No, I don’t have any history of neurological or cardiovascular conditions.",
+      "I’m not sure. Can you check my family history?",
+      "I have high blood pressure, but I’ve been managing it well.",
+      "I dont know."
+    ],
+    "correctAnswer": "No, I don’t have any history of neurological or cardiovascular conditions."
+  },
+  {
+    "context": "hospital",
+    "level": "advanced",
+    "question": "Thank you for sharing that information. I’ll need to perform a few diagnostic tests, including a CT scan and some blood work. This will help us get a clearer picture of what’s going on.",
+    "answers": [
+      "Thank you, doctor. I’m happy to proceed with the tests.",
+      "Do I need to pay for these tests?",
+      "Can I go home now?",
+      "I dont know."
+    ],
+    "correctAnswer": "Thank you, doctor. I’m happy to proceed with the tests."
+  },
+  {
+    "context": "hospital",
+    "level": "advanced",
+    "question": "I’m scheduling the CT scan now. You’ll need to lie still for about 20 minutes. If you have any concerns during the procedure, don’t hesitate to inform the technician.",
+    "answers": [
+      "Understood, doctor. I’ll make sure to stay still.",
+      "Can I take a break during the scan?",
+      "How soon will I get the results?",
+      "I dont know."
+    ],
+    "correctAnswer": "Understood, doctor. I’ll make sure to stay still."
+  },
+  {
+    "context": "hospital",
+    "level": "advanced",
+    "question": "The scan is complete, and I’ll now review the results with you. Based on the imaging, it appears that there’s some mild inflammation in the temporal region of your brain, likely caused by stress and lack of sleep.",
+    "answers": [
+      "That’s a relief to hear. What can I do to alleviate the symptoms?",
+      "Do I need surgery for this?",
+      "Will I need to take time off from work?",
+      "I dont know."
+    ],
+    "correctAnswer": "That’s a relief to hear. What can I do to alleviate the symptoms?"
+  },
+  {
+    "context": "hospital",
+    "level": "advanced",
+    "question": "I recommend a combination of stress management techniques, such as mindfulness and relaxation exercises, along with a prescribed course of anti-inflammatory medication. It’s also important to get regular sleep and avoid overexertion. Would you like a referral to a counselor for stress management?",
+    "answers": [
+      "Yes, a referral would be very helpful. Thank you for your guidance.",
+      "I don’t want any medication.",
+      "Can I return to work immediately?",
+      "I dont know."
+    ],
+    "correctAnswer": "Yes, a referral would be very helpful. Thank you for your guidance."
+  },
+  {
+    "context": "hospital",
+    "level": "advanced",
+    "question": "I’ll arrange the referral for you. Additionally, I’ll schedule a follow-up appointment in a week to monitor your progress. Is that acceptable?",
+    "answers": [
+      "Yes, that works perfectly. Thank you for your help, doctor.",
+      "Can I reschedule the follow-up appointment?",
+      "Do I need to pay for the referral?",
+      "I dont know."
+    ],
+    "correctAnswer": "Yes, that works perfectly. Thank you for your help, doctor."
+  },
+  {
+    "context": "hospital",
+    "level": "advanced",
+    "question": "Great. You’ll receive a call from our office to confirm your follow-up appointment and referral. Take care of yourself and don’t hesitate to contact us if your symptoms worsen.",
+    "answers": [
+      "Thank you, doctor. I’ll be in touch if I have any issues.",
+      "I don’t need the follow-up appointment.",
+      "Can I leave now?",
+      "I dont know."
+    ],
+    "correctAnswer": "Thank you, doctor. I’ll be in touch if I have any issues."
+  },
+  {
+    "context": "hospital",
+    "level": "advanced",
+    "question": "You’re welcome. Please take care, and I hope you feel better soon. Have a great day.",
+    "answers": [
+      "Thank you very much, doctor. I’ll follow your advice and take care of myself.",
+      "Can I have a prescription for something stronger?",
+      "I want to leave now.",
+      "I dont know."
+    ],
+    "correctAnswer": "Thank you very much, doctor. I’ll follow your advice and take care of myself."
+  },
+  {
+    "context": "home",
+    "level": "beginner",
+    "question": "Hello! Can you help me clean the living room?",
+    "answers": [
+      "Yes, I can help clean the living room.",
+      "No, I don’t like cleaning.",
+      "I want to go to the park.",
+      "I dont know."
+    ],
+    "correctAnswer": "Yes, I can help clean the living room."
+  },
+  {
+    "context": "home",
+    "level": "beginner",
+    "question": "Can you pass me the broom, please?",
+    "answers": [
+      "Sure! Here is the broom.",
+      "I don’t know what a broom is.",
+      "Let’s go shopping.",
+      "I dont know."
+    ],
+    "correctAnswer": "Sure! Here is the broom."
+  },
+  {
+    "context": "home",
+    "level": "beginner",
+    "question": "Thank you! Now, can you wipe the table?",
+    "answers": [
+      "Yes, I will wipe the table.",
+      "I’m going to sleep now.",
+      "Where is the park?",
+      "I dont know."
+    ],
+    "correctAnswer": "Yes, I will wipe the table."
+  },
+  {
+    "context": "home",
+    "level": "beginner",
+    "question": "The table looks great! Can you open the window for some fresh air?",
+    "answers": [
+      "Sure, I will open the window.",
+      "No, I don’t like fresh air.",
+      "Can I eat something?",
+      "I dont know."
+    ],
+    "correctAnswer": "Sure, I will open the window."
+  },
+  {
+    "context": "home",
+    "level": "beginner",
+    "question": "Now that the living room is clean, should we take a break?",
+    "answers": [
+      "Yes, let’s take a break.",
+      "No, I want to keep cleaning forever.",
+      "Let’s go to the hospital.",
+      "I dont know."
+    ],
+    "correctAnswer": "Yes, let’s take a break."
+  },
+  {
+    "context": "home",
+    "level": "beginner",
+    "question": "Do you want some water or tea during the break?",
+    "answers": [
+      "I would like some tea, please.",
+      "I don’t drink water or tea.",
+      "Can I play outside?",
+      "I dont know."
+    ],
+    "correctAnswer": "I would like some tea, please."
+  },
+  {
+    "context": "home",
+    "level": "beginner",
+    "question": "Here’s your tea. Do you think we should clean the kitchen next?",
+    "answers": [
+      "Yes, we can clean the kitchen next.",
+      "No, I want to leave the house.",
+      "Let’s go to the park instead.",
+      "I dont know."
+    ],
+    "correctAnswer": "Yes, we can clean the kitchen next."
+  },
+  {
+    "context": "home",
+    "level": "beginner",
+    "question": "Alright. Can you start by washing the dishes?",
+    "answers": [
+      "Sure, I will wash the dishes.",
+      "No, I don’t like doing dishes.",
+      "Can we go shopping?",
+      "I dont know."
+    ],
+    "correctAnswer": "Sure, I will wash the dishes."
+  },
+  {
+    "context": "home",
+    "level": "beginner",
+    "question": "The kitchen is almost clean now. Can you take out the trash?",
+    "answers": [
+      "Yes, I will take out the trash.",
+      "I don’t know where the trash is.",
+      "I want to clean the garden.",
+      "I dont know."
+    ],
+    "correctAnswer": "Yes, I will take out the trash."
+  },
+  {
+    "context": "home",
+    "level": "beginner",
+    "question": "Great job today! Do you want to watch a movie now?",
+    "answers": [
+      "Yes, let’s watch a movie.",
+      "I want to clean the whole house again.",
+      "Can I go outside?",
+      "I dont know."
+    ],
+    "correctAnswer": "Yes, let’s watch a movie."
+  },
+  {
+    "context": "home",
+    "level": "intermediate",
+    "question": "Hey, the living room is quite messy. Should we clean it up now?",
+    "answers": [
+      "Sure, let’s clean the living room together.",
+      "I don’t think it’s messy.",
+      "Can we go to the mall instead?",
+      "I dont know."
+    ],
+    "correctAnswer": "Sure, let’s clean the living room together."
+  },
+  {
+    "context": "home",
+    "level": "intermediate",
+    "question": "Can you vacuum the floor while I dust the shelves?",
+    "answers": [
+      "Yes, I’ll vacuum the floor right away.",
+      "I don’t know how to use a vacuum.",
+      "No, I want to read a book.",
+      "I dont know."
+    ],
+    "correctAnswer": "Yes, I’ll vacuum the floor right away."
+  },
+  {
+    "context": "home",
+    "level": "intermediate",
+    "question": "The shelves are quite dusty. Should we rearrange the books while we’re at it?",
+    "answers": [
+      "That’s a good idea. Let’s reorganize the books.",
+      "No, I don’t want to touch the books.",
+      "I think we should leave them as they are.",
+      "I dont know."
+    ],
+    "correctAnswer": "That’s a good idea. Let’s reorganize the books."
+  },
+  {
+    "context": "home",
+    "level": "intermediate",
+    "question": "By the way, have you seen the cleaning spray? I can’t find it in the kitchen.",
+    "answers": [
+      "Yes, it’s under the sink in the bathroom.",
+      "No, I don’t think we own any cleaning spray.",
+      "Let’s buy a new one instead.",
+      "I dont know."
+    ],
+    "correctAnswer": "Yes, it’s under the sink in the bathroom."
+  },
+  {
+    "context": "home",
+    "level": "intermediate",
+    "question": "Thanks! Can you also wipe the coffee table? It has some stains.",
+    "answers": [
+      "Sure, I’ll clean the coffee table now.",
+      "I think we should leave the stains for later.",
+      "Can you do it instead?",
+      "I dont know."
+    ],
+    "correctAnswer": "Sure, I’ll clean the coffee table now."
+  },
+  {
+    "context": "home",
+    "level": "intermediate",
+    "question": "The living room looks great now! Should we start on the kitchen next?",
+    "answers": [
+      "Yes, let’s clean the kitchen.",
+      "No, the kitchen is fine as it is.",
+      "I think we should clean the windows instead.",
+      "I dont know."
+    ],
+    "correctAnswer": "Yes, let’s clean the kitchen."
+  },
+  {
+    "context": "home",
+    "level": "intermediate",
+    "question": "The sink is full of dishes. Can you wash them while I clean the counters?",
+    "answers": [
+      "Sure, I’ll wash the dishes now.",
+      "No, I don’t want to do the dishes.",
+      "Can we skip the dishes for today?",
+      "I dont know."
+    ],
+    "correctAnswer": "Sure, I’ll wash the dishes now."
+  },
+  {
+    "context": "home",
+    "level": "intermediate",
+    "question": "Do you think we should organize the pantry? It’s looking a bit cluttered.",
+    "answers": [
+      "Yes, organizing the pantry sounds like a good idea.",
+      "No, I think the pantry is fine.",
+      "Can we do that another day?",
+      "I dont know."
+    ],
+    "correctAnswer": "Yes, organizing the pantry sounds like a good idea."
+  },
+  {
+    "context": "home",
+    "level": "intermediate",
+    "question": "We’re almost done with everything. Do you want to take a break or finish cleaning first?",
+    "answers": [
+      "Let’s finish cleaning first and then take a break.",
+      "I think we should stop now.",
+      "Can we skip cleaning for today?",
+      "I dont know."
+    ],
+    "correctAnswer": "Let’s finish cleaning first and then take a break."
+  },
+  {
+    "context": "home",
+    "level": "intermediate",
+    "question": "Great job! How about we celebrate with a nice cup of coffee?",
+    "answers": [
+      "That sounds wonderful. Let’s have coffee.",
+      "No, I don’t want coffee.",
+      "Can we keep cleaning instead?",
+      "I dont know."
+    ],
+    "correctAnswer": "That sounds wonderful. Let’s have coffee."
+  },
+  {
+    "context": "home",
+    "level": "advanced",
+    "question": "The living room is in desperate need of some attention. Shall we tackle it now, or do you prefer to do it later?",
+    "answers": [
+      "Let’s tackle it now. It’ll be good to get it out of the way.",
+      "I don’t think it’s messy enough to clean.",
+      "Let’s skip it entirely and order food instead.",
+      "I dont know."
+    ],
+    "correctAnswer": "Let’s tackle it now. It’ll be good to get it out of the way."
+  },
+  {
+    "context": "home",
+    "level": "advanced",
+    "question": "I’ll handle the vacuuming. Can you dust the surfaces and rearrange the cushions on the couch?",
+    "answers": [
+      "Of course, I’ll take care of the dusting and the cushions.",
+      "No, I’d rather not touch the couch.",
+      "Can I vacuum instead of dusting?",
+      "I dont know."
+    ],
+    "correctAnswer": "Of course, I’ll take care of the dusting and the cushions."
+  },
+  {
+    "context": "home",
+    "level": "advanced",
+    "question": "While you’re at it, could you also wipe down the coffee table? It’s looking a bit grimy.",
+    "answers": [
+      "Certainly, I’ll grab a cloth and get to it.",
+      "I don’t see anything wrong with the table.",
+      "How about we clean it tomorrow?",
+      "I dont know."
+    ],
+    "correctAnswer": "Certainly, I’ll grab a cloth and get to it."
+  },
+  {
+    "context": "home",
+    "level": "advanced",
+    "question": "Great job so far! Should we move on to decluttering the bookshelf, or do you think it’s fine as it is?",
+    "answers": [
+      "I think we should declutter it. It’ll make the room feel more organized.",
+      "The bookshelf is fine; let’s skip it.",
+      "I don’t think we have time for that now.",
+      "I dont know."
+    ],
+    "correctAnswer": "I think we should declutter it. It’ll make the room feel more organized."
+  },
+  {
+    "context": "home",
+    "level": "advanced",
+    "question": "Have you noticed how much dust has accumulated on the ceiling fan? Should we clean it as well?",
+    "answers": [
+      "Yes, let’s clean the ceiling fan. It’s been neglected for too long.",
+      "No, I think the fan is clean enough.",
+      "Cleaning the fan doesn’t sound necessary.",
+      "I dont know."
+    ],
+    "correctAnswer": "Yes, let’s clean the ceiling fan. It’s been neglected for too long."
+  },
+  {
+    "context": "home",
+    "level": "advanced",
+    "question": "The living room looks fantastic now! Do you feel like tackling the kitchen, or should we leave it for another day?",
+    "answers": [
+      "Let’s tackle the kitchen now. We’re on a roll.",
+      "I’d rather leave it for another day.",
+      "I think the kitchen doesn’t need cleaning.",
+      "I dont know."
+    ],
+    "correctAnswer": "Let’s tackle the kitchen now. We’re on a roll."
+  },
+  {
+    "context": "home",
+    "level": "advanced",
+    "question": "The kitchen sink is full of dishes. Would you mind washing them while I disinfect the counters?",
+    "answers": [
+      "Not at all, I’ll get started on the dishes right away.",
+      "I think we should leave the dishes for later.",
+      "Why don’t we both disinfect the counters instead?",
+      "I dont know."
+    ],
+    "correctAnswer": "Not at all, I’ll get started on the dishes right away."
+  },
+  {
+    "context": "home",
+    "level": "advanced",
+    "question": "Should we organize the pantry after the dishes, or do you think it’s in decent shape already?",
+    "answers": [
+      "Let’s organize it. It’ll be easier to find things later.",
+      "The pantry is fine for now.",
+      "Let’s avoid it; organizing is tedious.",
+      "I dont know."
+    ],
+    "correctAnswer": "Let’s organize it. It’ll be easier to find things later."
+  },
+  {
+    "context": "home",
+    "level": "advanced",
+    "question": "Everything looks so much better now. How about we brew some coffee and relax for a bit?",
+    "answers": [
+      "That sounds like a perfect idea. Let’s do it.",
+      "I don’t really want coffee.",
+      "No, I think we should clean more.",
+      "I dont know."
+    ],
+    "correctAnswer": "That sounds like a perfect idea. Let’s do it."
+  },
+  {
+    "context": "home",
+    "level": "advanced",
+    "question": "We’ve done a fantastic job today. Should we set a schedule for regular cleaning to keep things manageable?",
+    "answers": [
+      "Yes, setting a cleaning schedule would be very helpful.",
+      "No, I think we should just clean whenever we feel like it.",
+      "I don’t think we need a schedule.",
+      "I dont know."
+    ],
+    "correctAnswer": "Yes, setting a cleaning schedule would be very helpful."
+  }
+]

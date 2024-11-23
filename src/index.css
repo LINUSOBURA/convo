@@ -1,0 +1,108 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Arial", sans-serif;
+}
+
+.report {
+  text-align: center;
+}
+
+.question-container {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.question-container h2 {
+  margin-bottom: 1rem;
+}
+
+.question-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.question-container ul li {
+  margin-bottom: 0.75rem;
+}
+
+.question-container ul li button {
+  width: 100%;
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  background-color: #f3f4f6;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.question-container ul li button:hover {
+  background-color: greenyellow;
+}
+
+.question-tracker {
+  font-size: 1.25rem;
+}
+
+.timer {
+  font-size: 1.25rem;
+}
+
+.context-options {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+.context-options button {
+  width: 100%;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.context-options button:hover {
+  background-color: greenyellow;
+}
+
+.level-options {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+.level-options button {
+  width: 100%;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.level-options button:hover {
+  background-color: greenyellow;
+}
+
+.results-container {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.result-item {
+  margin-bottom: 1rem;
+}
+
+.result-item p {
+  margin-bottom: 0.5rem;
+}

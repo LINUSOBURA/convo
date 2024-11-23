@@ -1,0 +1,247 @@
+[
+      {
+        "context": "market",
+        "level": "beginner",
+        "question": "What do you want to buy?",
+        "answers": ["Shoes", "Car", "Television", "Chair"],
+        "correctAnswer": "Shoes"
+      },
+      {
+        "context": "market",
+        "level": "beginner",
+        "question": "Where is the fruit section?",
+        "answers": ["Next to vegetables", "Outside the store", "By the cashier", "Near electronics"],
+        "correctAnswer": "Next to vegetables"
+      },
+      {
+        "context": "market",
+        "level": "beginner",
+        "question": "Can I pay with a credit card?",
+        "answers": ["Yes, you can", "No, only cash", "Only with gold", "Maybe later"],
+        "correctAnswer": "Yes, you can"
+      },
+      {
+        "context": "market",
+        "level": "beginner",
+        "question": "Do you have apples today?",
+        "answers": ["Yes, fresh ones", "No, tomorrow", "Apples are blue", "I don’t sell cars"],
+        "correctAnswer": "Yes, fresh ones"
+      },
+      {
+        "context": "market",
+        "level": "beginner",
+        "question": "Where is the cashier?",
+        "answers": ["Near the exit", "Inside the fridge", "On the roof", "Next to the parking lot"],
+        "correctAnswer": "Near the exit"
+      },
+      {
+        "context": "market",
+        "level": "intermediate",
+        "question": "Can you help me find milk?",
+        "answers": ["It’s in the dairy section", "With the shoes", "Under the counter", "By the books"],
+        "correctAnswer": "It’s in the dairy section"
+      },
+      {
+        "context": "market",
+        "level": "intermediate",
+        "question": "What time does the store close?",
+        "answers": ["At 9 PM", "Blue car", "After lunch", "Tomorrow evening"],
+        "correctAnswer": "At 9 PM"
+      },
+      {
+        "context": "market",
+        "level": "intermediate",
+        "question": "Can I return this item?",
+        "answers": ["Yes, with the receipt", "No, you can’t", "Only with cash", "Not this week"],
+        "correctAnswer": "Yes, with the receipt"
+      },
+      {
+        "context": "market",
+        "level": "intermediate",
+        "question": "Do you sell bread here?",
+        "answers": ["Yes, in aisle 3", "No, at the mall", "Shoes only", "Bread is blue"],
+        "correctAnswer": "Yes, in aisle 3"
+      },
+      {
+        "context": "market",
+        "level": "intermediate",
+        "question": "Can I get a discount?",
+        "answers": ["Only during sales", "Yes, for free", "Blue discount", "Not today"],
+        "correctAnswer": "Only during sales"
+      },
+      {
+        "context": "market",
+        "level": "advanced",
+        "question": "Where is the meat section?",
+        "answers": ["Next to dairy", "Under the table", "Far away", "Above the shelves"],
+        "correctAnswer": "Next to dairy"
+      },
+      {
+        "context": "market",
+        "level": "advanced",
+        "question": "Can I buy this online?",
+        "answers": ["Yes, check our website", "No, not available", "Only for cars", "Shoes are not blue"],
+        "correctAnswer": "Yes, check our website"
+      },
+      {
+        "context": "market",
+        "level": "advanced",
+        "question": "How can I carry all these items?",
+        "answers": ["Use a shopping cart", "Call a car", "With a friend", "Green window"],
+        "correctAnswer": "Use a shopping cart"
+      },
+      {
+        "context": "market",
+        "level": "advanced",
+        "question": "Do you have gift cards?",
+        "answers": ["Yes, at the cashier", "No, at the hospital", "Shoes only", "With the car"],
+        "correctAnswer": "Yes, at the cashier"
+      },
+      {
+        "context": "market",
+        "level": "advanced",
+        "question": "Can I get some help here?",
+        "answers": ["Yes, one moment", "No, not possible", "Shoes are red", "Green question"],
+        "correctAnswer": "Yes, one moment"
+      },
+      {
+        "context": "market",
+        "level": "advanced",
+        "question": "Do you have a loyalty program?",
+        "answers": ["Yes, sign up at the counter", "No, with blue", "Shoes and cash", "With a TV"],
+        "correctAnswer": "Yes, sign up at the counter"
+      },
+      {
+        "context": "market",
+        "level": "advanced",
+        "question": "Where can I find water bottles?",
+        "answers": ["In aisle 2", "Under the table", "Next to bread", "Green bottles"],
+        "correctAnswer": "In aisle 2"
+      },
+      {
+        "context": "market",
+        "level": "advanced",
+        "question": "How much does this cost?",
+        "answers": ["It’s $10", "Not for sale", "Shoes are blue", "Red money"],
+        "correctAnswer": "It’s $10"
+      },
+      {
+        "context": "market",
+        "level": "advanced",
+        "question": "Can I park here?",
+        "answers": ["Yes, in the parking lot", "No, on the roof", "Only with bread", "Green chairs"],
+        "correctAnswer": "Yes, in the parking lot"
+      },
+      {
+        "context": "market",
+        "level": "advanced",
+        "question": "Is there a pharmacy in this store?",
+        "answers": ["Yes, near the entrance", "No, outside", "With the shoes", "On the roof"],
+        "correctAnswer": "Yes, near the entrance"
+      },
+      {
+        "context": "classroom",
+        "level": "beginner",
+        "question": "What is 10 minus 4?",
+        "answers": ["6", "4", "10", "40"],
+        "correctAnswer": "6"
+      },
+      {
+        "context": "classroom",
+        "level": "beginner",
+        "question": "What is the color of the sun?",
+        "answers": ["Yellow", "Blue", "Red", "Green"],
+        "correctAnswer": "Yellow"
+      },
+      {
+        "context": "classroom",
+        "level": "beginner",
+        "question": "What is your teacher's name?",
+        "answers": ["Mr. Green", "Dog", "Table", "Fast"],
+        "correctAnswer": "Mr. Green"
+      },
+      {
+        "context": "classroom",
+        "level": "beginner",
+        "question": "What animal can fly?",
+        "answers": ["Bird", "Cat", "Fish", "Car"],
+        "correctAnswer": "Bird"
+      },
+      {
+        "context": "classroom",
+        "level": "beginner",
+        "question": "Which is a fruit?",
+        "answers": ["Apple", "Chair", "Car", "Blue"],
+        "correctAnswer": "Apple"
+      },
+      {
+        "context": "classroom",
+        "level": "intermediate",
+        "question": "What is the capital of France?",
+        "answers": ["Paris", "London", "Berlin", "Madrid"],
+        "correctAnswer": "Paris"
+      },
+      {
+        "context": "classroom",
+        "level": "intermediate",
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "answers": ["Harper Lee", "J.K. Rowling", "Ernest Hemingway", "Mark Twain"],
+        "correctAnswer": "Harper Lee"
+      },
+      {
+        "context": "classroom",
+        "level": "intermediate",
+        "question": "What is the chemical symbol for gold?",
+        "answers": ["Au", "Ag", "Fe", "Cu"],
+        "correctAnswer": "Au"
+      },
+      {
+        "context": "classroom",
+        "level": "intermediate",
+        "question": "Which gas do plants absorb during photosynthesis?",
+        "answers": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "correctAnswer": "Carbon Dioxide"
+      },
+      {
+        "context": "classroom",
+        "level": "intermediate",
+        "question": "Who painted the Mona Lisa?",
+        "answers": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Michelangelo"],
+        "correctAnswer": "Leonardo da Vinci"
+      },
+      {
+        "context": "classroom",
+        "level": "advanced",
+        "question": "What is the boiling point of water at standard atmospheric pressure?",
+        "answers": ["0°C", "50°C", "100°C", "150°C"],
+        "correctAnswer": "100°C"
+      },
+      {
+        "context": "classroom",
+        "level": "advanced",
+        "question": "Which is the largest mammal in the world?",
+        "answers": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+        "correctAnswer": "Blue Whale"
+      },
+      {
+        "context": "classroom",
+        "level": "advanced",
+        "question": "Who was the first person to walk on the moon?",
+        "answers": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"],
+        "correctAnswer": "Neil Armstrong"
+      },
+      {
+        "context": "classroom",
+        "level": "advanced",
+        "question": "What is the square root of 64?",
+        "answers": ["4", "8", "16", "32"],
+        "correctAnswer": "8"
+      },
+      {
+        "context": "classroom",
+        "level": "advanced",
+        "question": "Which element has the atomic number 1?",
+        "answers": ["Hydrogen", "Helium", "Lithium", "Beryllium"],
+        "correctAnswer": "Hydrogen"
+      }
+    ]
