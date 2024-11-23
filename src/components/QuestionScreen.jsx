@@ -23,7 +23,7 @@ const QuestionScreen = ({
       <div className="flex flex-col items-center justify-center min-h-screen bg-green-50 py-10 ">
         <h3 className="text-4xl font-bold mb-8 text-gray-800 flex items-center justify-center">
           <img
-            src="src/public/q-and-a-ezgif.gif"
+            src="/q-and-a-ezgif.gif"
             alt="nothing"
             srcset=""
             className="w-14 h-14 inline-block mr-2"
