@@ -3,8 +3,8 @@ import Layout from "./Layout";
 
 const LevelSelection = ({ onSelectLevel }) => (
   <Layout title={"Level"}>
-    <div className="flex flex-col items-center justify-center min-h-screen bg-green-50">
-      <h1 className="text-4xl font-bold mb-8 text-gray-800">
+    <div className="flex flex-col items-center justify-center min-h-screen bg-green-50 px-8">
+      <h1 className="text-4xl font-bold mb-8 text-gray-800 text-center">
         Choose Your Proficiency Level
       </h1>
       <p className="mb-4">

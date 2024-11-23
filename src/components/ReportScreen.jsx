@@ -24,7 +24,7 @@ const ReportScreen = ({ randomQuestions, selectedAnswers, onRestart }) => {
     <Layout title={"Report"}>
       {showConfetti && <Confetti />}
 
-      <div className="flex flex-col items-center justify-center min-h-screen bg-green-50 py-6">
+      <div className="flex flex-col items-center justify-center min-h-screen bg-green-50 py-6 px-4">
         <h2 className="text-3xl font-bold mb-4">Game Over</h2>
         <p className="text-xl mb-2">Your score: {score}%</p>
         <p className="text-xl mb-4">

@@ -20,7 +20,7 @@ const QuestionScreen = ({
 
   return (
     <Layout title={"Question"}>
-      <div className="flex flex-col items-center justify-center min-h-screen bg-green-50 py-10 ">
+      <div className="flex flex-col items-center justify-center min-h-screen bg-green-50 py-10 px-4">
         <h3 className="text-4xl font-bold mb-8 text-gray-800 flex items-center justify-center">
           <img
             src="/q-and-a-ezgif.gif"
